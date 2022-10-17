@@ -1,6 +1,6 @@
 # Description
 
-This repository contains data and code to reproduce the findings reported in:
+This repository contains data and code associated with:
 
 Economou, M., Vanden Bempt, F., Van Herck, S., Glatz, T., Wouters J.,  Ghesquière, P., Vanderauwera, J. and Vandermosten, M. Cortical structure in pre-readers at cognitive risk for dyslexia: baseline differences and response to intervention.
 
