@@ -1,0 +1,40 @@
+"name";"label";"value_labels"
+"id";"Unique subject identifier";NA
+"intervention";"Intervention group assignment";"GG_NE. GG-Flemish,
+ActiveControl. Active control,
+CONTROL. Typical control"
+"risk";"Cognitive risk for dyslexia (identified by early large-scale screening)";"1. Has a risk,
+0. Does not have a risk"
+"sex";"sex";"F. female,
+M. male"
+"FR";"Familial risk for dyslexia (at least one first-degree relative with a diagnosis)";"1. Has a risk,
+0. Does not have a risk"
+"iq";"Non-verbal intelligence (assessed using Raven's colored progressive matrices)";NA
+"LQ";"Laterality quotient (based on a subset of questions from the Edinburgh Handedness Inventory)";"LH. Left handed,
+AD. Ambidextrous,
+RH. Right handed"
+"M_SES";"Socio-economic status (maternal education level)";"1. No extra degree after secondary school,
+2. Professional/academic bachelor,
+3. Master or PhD"
+"HoursPlayed";"Total amount spent playing the assigned intervention game (hours)";NA
+"gamePeriod_days";"Duration of the total intervention playing phase (days)";NA
+"time";"Experimental session";"ses-01. Pre-test,
+ses-02. Post-test"
+"ageM";"Age at MRI (months)";NA
+"region";"cortical region from Freesurfer parcellation";"lh_fusiform. Left Fusiform Gyrus,
+rh_fusiform. Right Fusiform Gyrus,
+lh_inferiortemporal. Left Inferior Temporal Gyrus,
+rh_inferiortemporal. Right Inferior Temporal Gyrus,
+lh_middletemporal. Left Middle Temporal Gyrus,
+rh_middletemporal. Right Middle Temporal Gyrus,
+lh_superiortemporal. Left Superior Temporal Gyrus,
+rh_superiortemporal. Right Superior Temporal Gyrus,
+lh_supramarginal. Left Supramarginal Gyrus,
+rh_supramarginal. Right Supramarginal Gyrus,
+lh_parsopercularis. Left Inferior Frontal Gyrus (pars opercularis),
+rh_parsopercularis. Right Inferior Frontal Gyrus (pars opercularis),
+lh_parstriangularis. Left Inferior Frontal Gyrus (pars triangularis),
+rh_parstriangularis. Right Inferior Frontal Gyrus (pars triangularis)"
+"measure";"Cortical measure";"thickness. Cortical Thickness (mm),
+area. Cortical Surface Area (mm2)"
+"value";"Value of cortical measure";NA
